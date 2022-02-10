@@ -18,7 +18,8 @@ h1{
 }
 
 li{
-    text-decoration: underline; color: blue;
+    text-decoration: underline; 
+    text-decoration-color: blue;
 }
 
 .picture{
